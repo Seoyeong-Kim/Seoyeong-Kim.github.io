@@ -1,0 +1,11 @@
+- name: Email
+  link: dev.summer.kim@gmail.com
+  content: dev.summer.kim@gmail.com
+
+- name: Github
+  link: http://github.com/seoyeong-kim
+  content: Seoyeong-kim
+
+- name: Blog
+  link: https://seoyeong-kim.github.io
+  content:  https://seoyeong-kim.github.io

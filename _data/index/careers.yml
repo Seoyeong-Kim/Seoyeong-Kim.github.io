@@ -1,0 +1,20 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+
+#  name: Google
+#  link: http://www.google.com/
+#  date: July 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+#  job: Programming Internship
+
+- name: 삼양데이타시스템
+  date: October 2016  - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: System Develpment & Management
+
+- name: 공주대학교
+  link: http://www.kongju.ac.kr/
+  date: March 2012  - February 2017
+  job:  Major in Computer Engineering
+
+- name: 북일여자고등학교
+  link: https://www.bigs.hs.kr/
+  date: March 2008  - February 2011

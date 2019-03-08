@@ -1,0 +1,8 @@
+<h1><span data-i18n="skills.my_skills">Technical Skills</span></h1>
+{% for tech in site.data.index.techs %}
+    <div class="archive-title bio">
+      <div class="">
+        <strong> {{ tech.name }} - </strong> {{ tech.list }}
+      </div>
+    </div>
+{% endfor %}

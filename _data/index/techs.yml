@@ -1,0 +1,14 @@
+- name: Program Language
+  list: Java, Javascript, C#
+
+- name: Web Framework
+  list: Spring, Express(NodeJS), .NET
+
+- name: DataBase
+  list: SQL Server, MySQL
+
+- name: Dev Ops
+  list: Git, Docker
+
+- name: ETC
+  list: AWS(EC2, RDS, S3, ELB, Auto Scaling ...)

@@ -1,0 +1,8 @@
+<h1><span data-i18n="skills.my_skills">Certification</span></h1>
+{% for license in site.data.index.licenses %}
+    <div class="archive-title bio">
+      <div class="">
+        <strong>{{ license.date }} :: {{ license.content }} </strong>
+      </div>
+    </div>
+{% endfor %}
