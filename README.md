@@ -1,2 +1,2 @@
 # Seoyeong's dev blog
-http://syeongee.github.io
+http://Seoyeong-Kim.github.io

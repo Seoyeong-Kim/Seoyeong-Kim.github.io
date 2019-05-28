@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://syeongee.github.io/sitemap.xml
+Sitemap: https://Seoyeong-Kim.github.io/sitemap.xml
