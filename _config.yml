@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: Seoyeong-Kim Dev BLOG
+title: Seoyeong's Dev BLOG
 email: seoyeong2352@gmail.com
-url: https://Seoyeong-Kim.github.io
+url: https://ausleaf.github.io
 
 
 #
@@ -32,7 +32,7 @@ kramdown:
 ####################################
 #
 owner:
-  name: Seoyeong-Kim
+  name: Seoyeong
   avatar: leonids-logo.jpg
   job: "Software Develper"
   bio: ""
@@ -47,7 +47,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: Seoyeong-Kim #username
+  github: ausleaf #username
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username

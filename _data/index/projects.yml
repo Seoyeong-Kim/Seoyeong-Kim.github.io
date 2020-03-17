@@ -1,9 +1,9 @@
 - name: Travelia
   descr: "여행을 준비하는 사람들을 위한 여행 계획 작성 및 공유 사이트한국 관광공사 API를 이용하여 관광지 정보제공(Spring4 기반)"
   image: pong.png
-  github: https://github.com/seoyeong-kim/travelia
+  github: https://github.com/ausleaf/travelia
 
 - name: ToNight
   descr: "클럽 사용자들의 입장/퇴장 관리 및 클럽정보 이용 정보 제공 / 사용자 패턴 빅데이터 분석 시스템(NodeJS 기반)"
   image: pong.png
-  github: https://github.com/seoyeong-kim/tonight 
+  github: https://github.com/ausleaf/tonight

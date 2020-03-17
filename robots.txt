@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://Seoyeong-Kim.github.io/sitemap.xml
+Sitemap: https://ausleaf.github.io/sitemap.xml
