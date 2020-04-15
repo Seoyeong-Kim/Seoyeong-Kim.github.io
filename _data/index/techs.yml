@@ -1,14 +1,14 @@
 - name: Program Language
-  list: Java, Javascript, C#
+  list: Java, Kotlin, Javascript, C#
 
 - name: Web Framework
-  list: Spring, Express(NodeJS), .NET
+  list: Spring boot, Spring Framework, .NET
 
 - name: DataBase
-  list: SQL Server, MySQL
+  list: MySQL, ElasticSearch, Redis, Mongo, SQL Server
 
 - name: Dev Ops
-  list: Git, Docker
+  list: Git, Docker, Kubernetes
 
 - name: ETC
-  list: AWS(EC2, RDS, S3, ELB, Auto Scaling ...)
+  list: JIRA, Slack
