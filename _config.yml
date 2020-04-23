@@ -32,12 +32,12 @@ kramdown:
 ####################################
 #
 owner:
-  name: Seoyeong
+  name: seoyeong
   avatar: leonids-logo.jpg
   job: "Software Develper"
   bio: ""
   email: seoyeong2352@gmail.com
-  disqus-shortname:
+  disqus-shortname: seoyeong_kim
   twitter: #username
   facebook: #username
   google:
