@@ -37,11 +37,11 @@ owner:
   job: "Software Develper"
   bio: ""
   email: seoyeong2352@gmail.com
-  disqus-shortname: seoyeong_kim
+  disqus-shortname: seoyeong-dev-blog
   twitter: #username
   facebook: #username
   google:
-    plus: #username
+    plus: #username[
     analytics: "UA-109582923-1"
     verify:
     ad-client:
